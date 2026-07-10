@@ -43,8 +43,11 @@ ________________________________________________________________________________
 CKD-Prediction-using-ML
 │
 ├── app.py # Streamlit application
+
 ├── ckd_random_forest.pkl # Trained Random Forest model
+
 ├── requirements.txt # Required libraries
+
 └── README.md # Project documentation
 
 
