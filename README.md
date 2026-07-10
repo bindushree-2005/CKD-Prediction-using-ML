@@ -10,6 +10,9 @@ A **Random Forest Classifier** is used to train the model and predict CKD outcom
 
 ___________________________________________________________________________________________________________________
 
+Live Demo:https://ckd-prediction-using-ml-2numpzcj2edgbwkcgznmug.streamlit.app/
+_____________________________________________________________________________________________________________________________
+
 ## 🎯 Objectives
 
 - Predict the possibility of Chronic Kidney Disease using patient health data.
